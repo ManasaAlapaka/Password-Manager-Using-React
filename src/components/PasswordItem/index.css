@@ -1,0 +1,65 @@
+.user-1 {
+  background-color: #0b69ff;
+}
+.user-2 {
+  background-color: #f59e0b;
+}
+.user-3 {
+  background-color: #10b981;
+}
+.user-4 {
+  background-color: #f97316;
+}
+.user-5 {
+  background-color: #14b8a6;
+}
+.user-6 {
+  background-color: #b91c1c;
+}
+.user-7 {
+  background-color: #0ea5e9;
+}
+.password-item-con {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-style: solid;
+  border-color: #9ba9eb;
+  border-radius: 5px;
+  border-width: 1px;
+  width: 250px;
+  padding: 10px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+.logo-user-con {
+  display: flex;
+  align-items: center;
+}
+.user-name-logo {
+  margin-right: 10px;
+  padding: 10px 15px 10px 15px;
+  border-radius: 25px;
+  color: white;
+}
+.user-details-con {
+  margin-right: 15px;
+}
+.userdetails-item {
+  color: white;
+  margin-bottom: 5px;
+  font-size: 13px;
+}
+.delete-img {
+  width: 20px;
+  height: 20px;
+}
+.stars-img {
+  width: 70%;
+}
+.del-btn {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
